@@ -27,7 +27,9 @@ _Here is our team:_
 * Storyteller: [YOUR NAME HERE!](mailto:codeforanchorage@gmail.com)
 
 ##What We Did in 2014
-
+### Collaboration and Applications
+- BETA - Fishing Dipnet predictor [visualization](https://codeforanchorage.shinyapps.io/dipnet_app/) based on fish sonar counts and tides
+- 
 
 ##What We Want to Do This Year
 
