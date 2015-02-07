@@ -43,10 +43,8 @@ _Here is our team:_
 - Facilitate technology projects by community organizations.
 
 ####With government partners
-- Improve government perception of civic technology, and of Code for Sacramento.
+- Improve government perception of civic technology, and of Code for Anchorage.
 - Create a sustainable civic technology product lifecycle.
-- Creat a memorandum of understanding with local government partners (i.e. SACOG, West Sacramento, Sacramento)
-	- Including a security policy -- what conditions do we need to meet?
 
 ####With regional brigades
 - Reduce redundancy.
@@ -76,18 +74,15 @@ _Here is how we’re going to do it:_
 - TODO: MORE
 
 ####With regional brigades
-- Host a hackathon with other brigades in the regions.
 - Collaborate on a regional project for [Code Across](http://www.codeforamerica.org/events/codeacross-2015/).
-- Crash other brigades' meetups.
 
 ###Outreach
 - Invite community organization representatives to deliver lightning talks at meetups.
 - Promote a network effect with partners by boosting their work on our social and publishing platforms (and politely asking that they do the same for us).
 - Investigate hosting booths at community events. (TODO: What type of events?)
-- Invite/offer speakers from/to other other civic tech organizations, such as Girls Who Code.
+- Invite/offer speakers from/to other other civic tech organizations, such as Anchorage Programming Workshop.
 - Invite/offer speakers from/to other meetups and tech/design/data organizations (especially campus-based organizations).
 - Invite community organizations to pitch their needs at meetups.
-- Hold demo meetups in surrounding areas (Roseville, Lincoln, etc), Davis Roots.
 
 ###Engagement
 - Core team rotates responsibility for either bringing in a speaker, giving a talk, or having some other presentation.
@@ -110,13 +105,10 @@ _Things we should be able to say at the end of 2015:_
 #### With government partners
 - We regularly saw folks from our municipal sponsor at our meetups and events.
 - We engaged at least one new municipal sponsor.
-- TODO: More
 
 ####With regional brigades
-- We attended other brigade meetups, and invited members of other brigades to our meetups.
-- We delivered at least one project in collaboration with regional brigades.
 - We contributed to projects from other brigades.
-- We adapted at least one project from another brigade for Sacramento.
+- We adapted at least one project from another brigade for Anchorage.
 
 ###Outreach
 - We engaged a group of "community beta testers" willing to provide community feedback on Code for Sacramento projects.
@@ -125,7 +117,7 @@ _Things we should be able to say at the end of 2015:_
 
 ###Engagement
 - We improved the number of meetups attended by an average contributor.
-- We increased the quality, quantity, and diversity of contributions to Code for Sacramento Github repos.
+- We increased the quality, quantity, and diversity of contributions to Code for Anchorage Github repos.
 - We received more positive responses to surveys about our meetups in the fourth quarter than in the first.
 - We held on to our amazing core team.
 - We promoted local businesses, and they offered us their support.
@@ -160,7 +152,8 @@ _Here's how much it will cost:_
 | Unit | Cost |	Frequency |	Quantity |	Budget |
 |------|------|-----------|----------|---------|
 | Heroku and CartoDB reserve | $20.00 | monthly |	12 |	$240.00	|
-| CodeforAnchorage Hosting | $12.95 | 12 months	| 1	| $12.95 |		
-| Sub-total:	$252.95 |
+| CodeforAnchorage Hosting | $12.95 | 12 months	| 1	| $12.95 |	
+| Github Micro Plan | $7.00 | 12 months | $84 
+| Sub-total:	$336.95 | 
 						
-####GRAND TOTAL:	$5,830.95		
+####GRAND TOTAL:	$5,914.95		
