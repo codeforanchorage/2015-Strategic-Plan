@@ -153,7 +153,7 @@ _Here's how much it will cost:_
 |------|------|-----------|----------|---------|
 | Heroku and CartoDB reserve | $20.00 | monthly |	12 |	$240.00	|
 | CodeforAnchorage Hosting | $12.95 | 12 months	| 1	| $12.95 |	
-| Github Micro Plan | $7.00 | 12 months | $84 
+| Github Micro Plan | $7.00 | 12 months | 1 | $84 
 | Sub-total:	$336.95 | 
 						
 ####GRAND TOTAL:	$5,914.95		
