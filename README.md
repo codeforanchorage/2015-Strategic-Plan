@@ -28,7 +28,7 @@ _Here is our team:_
 
 ##What We Did in 2014
 #### Collaboration and Applications
--BETA - Fishing Dipnet predictor [visualization](https://codeforanchorage.shinyapps.io/dipnet_app/) based on fish sonar counts and tides
+- BETA - Fishing Dipnet predictor [visualization](https://codeforanchorage.shinyapps.io/dipnet_app/) based on fish sonar counts and tides
 - Worked with the Muni to get the bus data in [GTFS and Google Maps.](http://www.adn.com/article/20140716/anchorages-people-mover-bus-routes-arrive-google-maps)
 - Gathered and set up a system for cleaning and organizing Anchorage area [trail data](http://codeforanchorage.org/trailstranscoder-mobilebrowser/) for developers to consume.
 - [Find Yourself in Kincaid Park](http://www.akappworks.com/) was created by a member and [consumes brigade data.](http://www.adn.com/article/20150106/find-yourself-sprawling-kincaid-park-new-free-app)
