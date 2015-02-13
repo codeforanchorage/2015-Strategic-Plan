@@ -27,9 +27,12 @@ _Here is our team:_
 * Storyteller: [YOUR NAME HERE!](mailto:codeforanchorage@gmail.com)
 
 ##What We Did in 2014
-#### Collaboration and Applications
+#### Collaborations and Applications
+- Hosted CodeAcross 2014 at University of Alaska, Anchorage
+- Hosted National Day of Civic Hacking with Alaska Hackathon in late June.
+- Collaborated with Transit dept, Food Bank of Alaska and Anchorage Parks Foundation.
 - BETA - Fishing Dipnet predictor [visualization](https://codeforanchorage.shinyapps.io/dipnet_app/) based on fish sonar counts and tides
-- Worked with the Muni to get the bus data in [GTFS and Google Maps.](http://www.adn.com/article/20140716/anchorages-people-mover-bus-routes-arrive-google-maps)
+- Worked with the Muni to get the bus data in [GTFS and Google Maps](http://www.adn.com/article/20140716/anchorages-people-mover-bus-routes-arrive-google-maps) and the Muni site added a trip planner.
 - Gathered and set up a system for cleaning and organizing Anchorage area [trail data](http://codeforanchorage.org/trailstranscoder-mobilebrowser/) for developers to consume.
 - [Find Yourself in Kincaid Park](http://www.akappworks.com/) was created by a member and [consumes brigade data.](http://www.adn.com/article/20150106/find-yourself-sprawling-kincaid-park-new-free-app)
 - Deployed CfA [Balance](http://www.codeforamerica.org/apps/balance/) for Alaksa in [English](http://splash.codeforamerica.org/balance/english/ak/) and [Spanish.](http://splash.codeforamerica.org/balance/spanish/ak/)
@@ -37,6 +40,13 @@ _Here is our team:_
 ##What We Want to Do This Year
 
 ###Collaboration
+- Collaborate with [ANSEP](http://www.ansep.net/) (Alaska Native Science and Engineering Program)
+- Further collaborate with the [Food Bank of Alaska](http://www.foodbankofalaska.org/) to explore their needs and challenges in Anchorage and in rural villages. 
+- Extend our collaboration with the [Anchorage Parks Foundation](http://anchorageparkfoundation.org/) on the Trails Initiative. 
+- Extend our collaborations with the Municipal Transit Dept. and [People Mover](http://www.muni.org/departments/transit/peoplemover/Pages/default.aspx).
+- Collaborate with [Alaska Dept. of HHS](http://dhss.alaska.gov/Pages/default.aspx)
+- Collaborate with [Bike Anchorage](http://www.bikeanchorage.org/)
+- Identify two additional groups and form collabortaions.
 
 ####With community organizations
 - Better understand the needs of the community.
