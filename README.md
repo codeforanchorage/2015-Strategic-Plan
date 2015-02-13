@@ -31,6 +31,7 @@ _Here is our team:_
 - Hosted CodeAcross 2014 at University of Alaska, Anchorage
 - Hosted National Day of Civic Hacking with Alaska Hackathon in late June.
 - Collaborated with Transit dept, Food Bank of Alaska and Anchorage Parks Foundation.
+- Lance Ahern (CIO of the Anchorage Municipality) has been a strong partner and has attended many Brigade meetings and hackathons.
 - BETA - Fishing Dipnet predictor [visualization](https://codeforanchorage.shinyapps.io/dipnet_app/) based on fish sonar counts and tides
 - Worked with the Muni to get the bus data in [GTFS and Google Maps](http://www.adn.com/article/20140716/anchorages-people-mover-bus-routes-arrive-google-maps) and the Muni site added a trip planner.
 - Gathered and set up a system for cleaning and organizing Anchorage area [trail data](http://codeforanchorage.org/trailstranscoder-mobilebrowser/) for developers to consume.
@@ -44,7 +45,7 @@ _Here is our team:_
 - Further collaborate with the [Food Bank of Alaska](http://www.foodbankofalaska.org/) to explore their needs and challenges in Anchorage and in rural villages. 
 - Extend our collaboration with the [Anchorage Parks Foundation](http://anchorageparkfoundation.org/) on the Trails Initiative. 
 - Extend our collaborations with the Municipal Transit Dept. and [People Mover](http://www.muni.org/departments/transit/peoplemover/Pages/default.aspx).
-- Collaborate with [Alaska Dept. of HHS](http://dhss.alaska.gov/Pages/default.aspx)
+- Collaborate with [Alaska DHSS](http://dhss.alaska.gov/Pages/default.aspx)
 - Collaborate with [Bike Anchorage](http://www.bikeanchorage.org/)
 - Identify two additional groups and form collabortaions.
 
@@ -55,10 +56,6 @@ _Here is our team:_
 ####With government partners
 - Improve government perception of civic technology, and of Code for Anchorage.
 - Create a sustainable civic technology product lifecycle.
-
-####With regional brigades
-- Reduce redundancy.
-- Pool efforts.
 
 ###Outreach
 - Better understand the needs and habits of the community.
