@@ -47,7 +47,7 @@ _Here is our team:_
 - Extend our collaborations with the Municipal Transit Dept. and [People Mover](http://www.muni.org/departments/transit/peoplemover/Pages/default.aspx).
 - Collaborate with [Alaska DHSS](http://dhss.alaska.gov/Pages/default.aspx)
 - Collaborate with [Bike Anchorage](http://www.bikeanchorage.org/)
-- Meet with Public Defenders, District Attorney and Court Staff to research how to use tech to improve the Anchorage and Alaska court system.
+- Meet with Public Defenders, District Attornies and Court Staff to research how to use tech to improve the Anchorage and Alaska court system.
 
 ####With community organizations
 - Create a group of citizen testers similar to the CUT group in Chicago and Oakland
@@ -82,7 +82,7 @@ _Here is how we’re going to do it:_
 
 ###Outreach
 - Invite community organization representatives to deliver lightning talks at meetups.
-- Investigate hosting booths at community events. (TODO: What type of events?)
+- Investigate hosting booths at community events. Especially University events.
 - Invite/offer speakers from/to other other civic tech organizations, such as Anchorage Programming Workshop.
 - Invite/offer speakers from/to other meetups and tech/design/data organizations (especially campus-based organizations).
 - Invite community organizations to pitch their needs at meetups.
@@ -90,6 +90,10 @@ _Here is how we’re going to do it:_
 ###Engagement
 - Conduct regular surveys about satisfaction with hack nights and events
 - Reach out to local businesses (brewers, restaurants, etc.) about providing food sponsorship for events, because well-fed contributors are happier contributors.
+
+###With Muni Transit
+- Create a SMS realtime bus app
+- Work on changes to routes and times for GTFS
 
 ## Outcomes
 _Things we should be able to say at the end of 2015:_
