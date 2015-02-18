@@ -1,4 +1,4 @@
-2015-Strategic-Plan (Under Construction)
+2015-Strategic-Plan (Under Construction) (cloned from Code for Sac)
 ===================
 
 Our plan for 2015.
@@ -20,7 +20,7 @@ _Who we are and what we do:_
 _Here is our team:_
 * Co-Captains: [Brendan](https://github.com/brendanbabb) and [Hans](https://github.com/hansthompson)
 * Data Wrangler: [Mike](https://github.com/mkbrk)
-* Delivery Lead: [Scott](https://github.com/muskox)
+* Delivery Lead: [YOUR NAME HERE!](mailto:codeforanchorage@gmail.com)
 * Developer Evangelist: [Matt](https://github.com/thermokarst)
 * Social Media Manager: [YOUR NAME HERE!](mailto:codeforanchorage@gmail.com)
 * Event Organizer: [YOUR NAME HERE!](mailto:codeforanchorage@gmail.com)
@@ -47,9 +47,10 @@ _Here is our team:_
 - Extend our collaborations with the Municipal Transit Dept. and [People Mover](http://www.muni.org/departments/transit/peoplemover/Pages/default.aspx).
 - Collaborate with [Alaska DHSS](http://dhss.alaska.gov/Pages/default.aspx)
 - Collaborate with [Bike Anchorage](http://www.bikeanchorage.org/)
-- Identify two additional groups and form collabortaions.
+- Meet with Public Defenders, District Attorney and Court Staff to research how to use tech to improve the Anchorage and Alaska court system.
 
 ####With community organizations
+- Create a group of citizen testers similar to the CUT group in Chicago and Oakland
 - Better understand the needs of the community.
 - Facilitate technology projects by community organizations.
 
@@ -77,28 +78,17 @@ _Here is how we’re going to do it:_
 - Offer common-sense tech-oriented demos or talks to interested partners.
 
 ####With government partners
-- Invite our municipal sponsor and any interested members of their team to attend a meetup.
-- TODO: MORE
-
-####With regional brigades
-- Collaborate on a regional project for [Code Across](http://www.codeforamerica.org/events/codeacross-2015/).
+- Invite additonal people from the Muni to meetups and events.
 
 ###Outreach
 - Invite community organization representatives to deliver lightning talks at meetups.
-- Promote a network effect with partners by boosting their work on our social and publishing platforms (and politely asking that they do the same for us).
 - Investigate hosting booths at community events. (TODO: What type of events?)
 - Invite/offer speakers from/to other other civic tech organizations, such as Anchorage Programming Workshop.
 - Invite/offer speakers from/to other meetups and tech/design/data organizations (especially campus-based organizations).
 - Invite community organizations to pitch their needs at meetups.
 
 ###Engagement
-- Core team rotates responsibility for either bringing in a speaker, giving a talk, or having some other presentation.
-- At Wednesday meetups, focus on collaboration: lightning talks, pitches and standups, encourage remote collaboration.
-- Move Wednesday meetups back to 7:00 pm to allow people time to get off work.
-- Hold monthly Second-Saturday hack days (Urban Hive?) (TODO: times? provide lunch?)
-- Hold core team check-ins fifteen minutes before Wednesday meetings, and one hour core team meeetingss before hack days.
 - Conduct regular surveys about satisfaction with hack nights and events
-- Hold a quarterly Code for Sac open house. This event will replace that week's hack night.
 - Reach out to local businesses (brewers, restaurants, etc.) about providing food sponsorship for events, because well-fed contributors are happier contributors.
 
 ## Outcomes
