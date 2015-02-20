@@ -65,6 +65,7 @@ _Here is our team:_
 - Find talented potential contributors.
 
 ###Engagement
+- Grow the average hack night attendance to 20 by the end of the year and increase the number of people contributing to the repos (both tech and non-tech)
 - Retain talented contributors.
 - Prevent core-team burnout.
 - Increase brigade stability to improve our ability to deliver useful projects to the community.
@@ -78,23 +79,48 @@ _Here is how we’re going to do it:_
 - Offer common-sense tech-oriented demos or talks to interested partners.
 
 ####With government partners
-- Invite additonal people from the Muni to meetups and events.
+- Invite additonal people from the Muni and State to meetups, CodeAcross and NDoCH.
 
 ###Outreach
-- Invite community organization representatives to deliver lightning talks at meetups.
 - Investigate hosting booths at community events. Especially University events.
 - Invite/offer speakers from/to other other civic tech organizations, such as Anchorage Programming Workshop.
 - Invite/offer speakers from/to other meetups and tech/design/data organizations (especially campus-based organizations).
 - Invite community organizations to pitch their needs at meetups.
 
 ###Engagement
-- Conduct regular surveys about satisfaction with hack nights and events
+- Conduct regular surveys about satisfaction with hack nights and events.
 - Reach out to local businesses (brewers, restaurants, etc.) about providing food sponsorship for events, because well-fed contributors are happier contributors.
 
-###With Muni Transit
-- Create a SMS realtime bus app
-- Work on changes to routes and times for GTFS
+###With Transit
+- Create a SMS realtime bus app that we support and also use to find potential people to survey via text, notify people of additional SMS and smartphone apps.
+- Work on changes to routes and times for GTFS.
+- Get the Girdwood bus into GTFS (Partially done from prior hackathon)
+- Research putting the UAA/Hospital shuttle information into GTFS. It is only for UAA students and employees and the Hospital employees, so how do you incorporate that.
+- Research getting the Mat-Su bus into GTFS
+- Connect transit to our trail information (Look into transit to trails)
+- Visualziation of bus routes and times
+- Stretch goal - Realtime Transit API
 
+###With Transit
+- Create a SMS realtime bus app that we support and also use to find potential people to survey via text, notify people of additional SMS and smartphone apps.
+- Work on changes to routes and times for GTFS.
+- Get the Girdwood bus into GTFS (Partially done from prior hackathon)
+- Research putting the UAA/Hospital shuttle information into GTFS. It is only for UAA students and employees and the Hospital employees, so how do you incorporate that.
+- Research getting the Mat-Su bus into GTFS
+- Connect transit to our trail information (Look into transit to trails)
+- Visualziation of bus routes and times
+- Stretch goal - Realtime Transit API
+
+###With DHSS
+- Create a SMS realtime bus app that we support and also use to find potential people to survey via text, notify people of additional SMS and smartphone apps.
+- Work on changes to routes and times for GTFS.
+- Get the Girdwood bus into GTFS (Partially done from prior hackathon)
+- Research putting the UAA/Hospital shuttle information into GTFS. It is only for UAA students and employees and the Hospital employees, so how do you incorporate that.
+- Research getting the Mat-Su bus into GTFS
+- Connect transit to our trail information (Look into transit to trails)
+- Visualziation of bus routes and times
+- Stretch goal - Realtime Transit API
+ 
 ## Outcomes
 _Things we should be able to say at the end of 2015:_
 ###Collaboration
@@ -138,16 +164,17 @@ _Here's how much it will cost:_
 ####Events
 | Unit | Cost |	Frequency |	Quantity |	Budget |
 |------|------|-----------|----------|---------|
-| CodeAcross 2015 with Alaska Hackathon	| $750.00 |	one-time |	1 |	$750.00	|
+| CodeAcross 2015 with Alaska Hackathon	| $600.00 |	one-time |	1 |	$600.00	|
 | National Day of Civic Hacking |	$500.00 |	one-time |	1 |	$500.00	|
-| Sub-total:	$1,250.00	|	
+| Sub-total:	$1,100.00	|	
 						
 ####Promotional Materials
 | Unit | Cost |	Frequency |	Quantity |	Budget |
 |------|------|-----------|----------|---------|
-| Social Media Ads | $200.00 | annually |	1 |	$200.00	|
-| Internal Bus Posters | $1,150.00 | 6 months	| 1	| $1,150.00 |		
-| Sub-total:	$1,350.00 |
+| Social Media Ads | $240.00 | annually |	1 |	$240.00	|
+| Stickers for bus apps | $100 | 1 year	| 1	| $100.00 |
+| Radio and Print Ads | $200 | 1 year	| 1	| $200.00 |
+| Sub-total:	$540.00 |
 
 ####Application and Hosting
 | Unit | Cost |	Frequency |	Quantity |	Budget |
@@ -157,4 +184,4 @@ _Here's how much it will cost:_
 | Github Micro Plan | $7.00 | 12 months | 1 | $84 
 | Sub-total:	$336.95 | 
 						
-####GRAND TOTAL:	$5,914.95		
+####GRAND TOTAL:	$5,181.95		
