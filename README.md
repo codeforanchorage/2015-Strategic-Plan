@@ -1,7 +1,7 @@
-2015-Strategic-Plan (Under Construction) (cloned from Code for Sac)
+2015-Strategic-Plan
 ===================
 
-Our plan for 2015.
+Our plan for 2015 (cloned from Code for Sac)
 
 ##Who We Are
 ###Group Description
