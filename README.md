@@ -101,25 +101,29 @@ _Here is how we’re going to do it:_
 - Visualziation of bus routes and times
 - Stretch goal - Realtime Transit API
 
-###With Transit
-- Create a SMS realtime bus app that we support and also use to find potential people to survey via text, notify people of additional SMS and smartphone apps.
-- Work on changes to routes and times for GTFS.
-- Get the Girdwood bus into GTFS (Partially done from prior hackathon)
-- Research putting the UAA/Hospital shuttle information into GTFS. It is only for UAA students and employees and the Hospital employees, so how do you incorporate that.
-- Research getting the Mat-Su bus into GTFS
-- Connect transit to our trail information (Look into transit to trails)
-- Visualziation of bus routes and times
-- Stretch goal - Realtime Transit API
+###With DHSS and Foodbank of Alaska
+- Spread the word on Balance and have 250 unique users by the end of the year (31 currently)
+- Translate Balance into 2 additional languages based on research.
+- Create a SNAP screener
+- Research a Medicaid screener for expansion on 7/1 in Alaska
+- Onboard for AK SNAP and research ways to improve this process.
+- Help citizens find SNAP locations.
+- Research TANF and ATM fees.
+- Screening locator for diseases (Further research required)
 
-###With DHSS
-- Create a SMS realtime bus app that we support and also use to find potential people to survey via text, notify people of additional SMS and smartphone apps.
-- Work on changes to routes and times for GTFS.
-- Get the Girdwood bus into GTFS (Partially done from prior hackathon)
-- Research putting the UAA/Hospital shuttle information into GTFS. It is only for UAA students and employees and the Hospital employees, so how do you incorporate that.
-- Research getting the Mat-Su bus into GTFS
-- Connect transit to our trail information (Look into transit to trails)
-- Visualziation of bus routes and times
-- Stretch goal - Realtime Transit API
+###With data and app infrastructure
+- Research and create an accessible property tax dataset based on CfA work
+- Research Geo-coding solution for Anchorage and AK
+- Research and create a system for mapping address and name data across gov datasets.
+- Provide a text based look up that lets you text an address get a lat and long that can be queried against geo databases. So that any finda type app can be accessed via SMS as well.
+- Create a group of civic translators for making apps available in multiple languages.
+- Curate and organize available gov data sources.
+- Show examples of existing Gov GIS datasets so people can easily see what type of data is in a geo dataset.
+- Work with gov and other agencies to get more data discovered and accessible. 
+
+###With sponsors
+- Provide links that make it easy to dontate to CfA earmarked for Code for Anchorage via web and mobile.
+- Find additional yearly sponsors as well as event sponsors to help fund and increase our overall budget. Money spent in the first part of the year should also focus on increasing our sponsors for the second part of the year.
  
 ## Outcomes
 _Things we should be able to say at the end of 2015:_
@@ -164,9 +168,9 @@ _Here's how much it will cost:_
 ####Events
 | Unit | Cost |	Frequency |	Quantity |	Budget |
 |------|------|-----------|----------|---------|
-| CodeAcross 2015 with Alaska Hackathon	| $600.00 |	one-time |	1 |	$600.00	|
+| CodeAcross 2015 with Alaska Hackathon	| $600.00 |	one-time |	1 |	$700.00	|
 | National Day of Civic Hacking |	$500.00 |	one-time |	1 |	$500.00	|
-| Sub-total:	$1,100.00	|	
+| Sub-total:	$1,200.00	|	
 						
 ####Promotional Materials
 | Unit | Cost |	Frequency |	Quantity |	Budget |
@@ -184,4 +188,4 @@ _Here's how much it will cost:_
 | Github Micro Plan | $7.00 | 12 months | 1 | $84 
 | Sub-total:	$336.95 | 
 						
-####GRAND TOTAL:	$5,181.95		
+####GRAND TOTAL:	$5,281.95		
