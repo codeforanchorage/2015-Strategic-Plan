@@ -168,9 +168,9 @@ _Here's how much it will cost:_
 ####Events
 | Unit | Cost |	Frequency |	Quantity |	Budget |
 |------|------|-----------|----------|---------|
-| CodeAcross 2015 with Alaska Hackathon	| $600.00 |	one-time |	1 |	$700.00	|
+| CodeAcross 2015 with Alaska Hackathon	| $600.00 |	one-time |	1 |	$850.00	|
 | National Day of Civic Hacking |	$500.00 |	one-time |	1 |	$500.00	|
-| Sub-total:	$1,200.00	|	
+| Sub-total:	$1,350.00	|	
 						
 ####Promotional Materials
 | Unit | Cost |	Frequency |	Quantity |	Budget |
@@ -188,4 +188,4 @@ _Here's how much it will cost:_
 | Github Micro Plan | $7.00 | 12 months | 1 | $84 
 | Sub-total:	$336.95 | 
 						
-####GRAND TOTAL:	$5,281.95		
+####GRAND TOTAL:	$5,431.95		
