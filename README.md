@@ -156,7 +156,7 @@ _Things we should be able to say at the end of 2015:_
 ## Draft Budget
 _Here's how much it will cost:_
 
-[Google Sheet Template](https://docs.google.com/a/codeforamerica.org/spreadsheets/d/1Ce-DDatt3jdPesmANAC16byQGyGuuktQjGPdk5vNiL4/edit?usp=sharing)
+[Code for Anchorage Budget Sheet Template](https://docs.google.com/a/codeforamerica.org/spreadsheets/d/1Ce-DDatt3jdPesmANAC16byQGyGuuktQjGPdk5vNiL4/edit?usp=sharing)
 
 						
 ####Meeting Space, Food & Beverage
