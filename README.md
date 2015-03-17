@@ -156,6 +156,8 @@ _Things we should be able to say at the end of 2015:_
 ## Draft Budget
 _Here's how much it will cost:_
 
+[Google Sheet Template](https://docs.google.com/a/codeforamerica.org/spreadsheets/d/1Ce-DDatt3jdPesmANAC16byQGyGuuktQjGPdk5vNiL4/edit?usp=sharing)
+
 						
 ####Meeting Space, Food & Beverage
 | Unit | Cost |	Frequency |	Quantity |	Budget |
@@ -168,7 +170,7 @@ _Here's how much it will cost:_
 ####Events
 | Unit | Cost |	Frequency |	Quantity |	Budget |
 |------|------|-----------|----------|---------|
-| CodeAcross 2015 with Alaska Hackathon	| $600.00 |	one-time |	1 |	$850.00	|
+| CodeAcross 2015 with Alaska Hackathon	| $850.00 |	one-time |	1 |	$850.00	|
 | National Day of Civic Hacking |	$500.00 |	one-time |	1 |	$500.00	|
 | Sub-total:	$1,350.00	|	
 						
